@@ -12,6 +12,10 @@
     align-items: center;
 }
 
+button{
+    border: none;
+    background-color: transparent;
+}
 .nav-logo{
     height: 50px;
     width: 200px;
